@@ -1,0 +1,15 @@
+{
+  "name": "ie8-bind",
+  "version": "1.0.0",
+  "description": "使 ie8 支持 function.bind 函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bind",
+    "ie"
+  ],
+  "author": "Punk.Li",
+  "license": "MIT"
+}
